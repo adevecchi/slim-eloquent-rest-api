@@ -1,0 +1,19 @@
+{
+    "name": "devas/devas",
+    "description": "",
+    "require": {
+        "slim/slim": "^3.9",
+        "illuminate/database": "^5.8",
+        "illuminate/filesystem": "^5.8",
+        "illuminate/translation": "^5.8",
+        "illuminate/validation": "^5.8",
+        "oscarotero/psr7-middlewares": "^3.21",
+        "monolog/monolog": "^2.2",
+        "tuupola/slim-jwt-auth": "^3.5"
+    },
+	"autoload": {
+		"psr-4": {
+			"App\\": "app"
+		}
+	}
+}

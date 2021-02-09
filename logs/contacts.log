@@ -1,0 +1,7 @@
+[2021-02-09T14:48:48.741075-03:00] contacts.ERROR: [Login] User invalid data input! {"password":["The password field is required."]} []
+[2021-02-09T14:49:03.142682-03:00] contacts.ERROR: [Login] User invalid data input! {"password":["The password field is required."]} []
+[2021-02-09T14:49:16.197395-03:00] contacts.ERROR: [Login] User invalid data input! {"email":["The email must be a valid email address."],"password":["The password field is required."]} []
+[2021-02-09T15:03:51.628264-03:00] contacts.INFO: Contact Created! {"user_id":1,"contact_id":5} []
+[2021-02-09T15:07:06.027683-03:00] contacts.INFO: Contact Updated! {"user_id":1,"contact_id":5} []
+[2021-02-09T15:09:20.580387-03:00] contacts.INFO: Contact Deleted! {"user_id":1,"contact_id":5,"name":"Marge Simpson","email":"marge@email.com","phone":"11 2345-0987"} []
+[2021-02-09T15:10:30.727003-03:00] contacts.WARNING: [Delete] Contact #5 Not Found [] []
